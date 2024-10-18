@@ -1,3 +1,5 @@
+//mongodb+srv://louisebochnia:mongo123@cluster0.uiuhf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 const express = require ('express')
 const cors = require ('cors')
 
